@@ -6,3 +6,4 @@
 6. golang的接口
 7. 类型断言：b=a.(String)
 8. 空接口interface{}使用
+9. testing包做单元测试
